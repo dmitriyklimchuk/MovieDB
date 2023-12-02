@@ -44,3 +44,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Movie DB KEYS
+KEY API 26a12beeadb4254e4196d087aae9ed16
+
+Token for access reading API
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIyNmExMmJlZWFkYjQyNTRlNDE5NmQwODdhYWU5ZWQxNiIsInN1YiI6IjY1NTcxYzRlMDgxNmM3MDEzN2U5YzA3ZCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.gOai5xviug007EerYTeFof0LNCa7p5Ay7mE-9V8znCE
